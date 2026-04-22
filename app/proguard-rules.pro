@@ -1,0 +1,2 @@
+-keep class com.eyebrowscroller.** { *; }
+-keep class com.google.mlkit.** { *; }

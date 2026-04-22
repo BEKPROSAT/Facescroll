@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eyebrow Scroller</string>
+    <string name="accessibility_service_label">Eyebrow Scroller</string>
+    <string name="accessibility_service_description">Allows Eyebrow Scroller to scroll your screen using facial gestures detected by the front camera.</string>
+</resources>
